@@ -1,2 +1,2 @@
-# sem2-project
+# quizz-game-project
 We have made a quiz game using 3 languages as what we have studied in this semester.
